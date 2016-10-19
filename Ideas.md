@@ -1,6 +1,6 @@
-My project focus:
+## Briding Banks Project
 
-1. Build a digital system for community savings circles and cooperatives to build identities through savigns and credit initiatives that help them build credit history / creditworthiness. 
+1. Prototype a system that builds identities for community savings circles and cooperative membeers through savigns and credit initiatives that help them build credit history / creditworthiness. 
 
 2. Showcase individuals stories (through ecotourism/student trips) international promotion for additional support + access to loans at competetive/lower interest rates.
 
